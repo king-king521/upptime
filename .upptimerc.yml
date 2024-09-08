@@ -7,6 +7,8 @@ sites:
     url: $NPM
   - name: DOCKER_MIRROR
     url: $DOCKER_MIRROR
+  - name: GPTNEXTCHAT
+    url: $GPTNEXTCHAT    
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
