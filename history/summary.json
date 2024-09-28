@@ -4,7 +4,7 @@
     "url": "$NPM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "npm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 208,
     "timeMonth": 214,
     "timeYear": 214,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-28": 0
+    }
   },
   {
     "name": "DOCKER_MIRROR",
