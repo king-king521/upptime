@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "npm",
     "status": "up",
-    "uptime": "98.79%",
+    "uptime": "98.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.24%",
-    "uptimeYear": "98.79%",
+    "uptimeYear": "98.80%",
     "time": 207,
     "timeDay": 212,
     "timeWeek": 221,
@@ -45,9 +45,9 @@
     "url": "$GPTNEXTCHAT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gptnextchat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -56,7 +56,9 @@
     "timeWeek": 212,
     "timeMonth": 207,
     "timeYear": 214,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 0
+    }
   },
   {
     "name": "Google",
