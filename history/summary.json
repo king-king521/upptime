@@ -4,7 +4,7 @@
     "url": "$NPM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "npm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 195,
     "timeYear": 208,
     "dailyMinutesDown": {
+      "2024-11-03": 0,
       "2024-10-12": 190,
       "2024-10-11": 542,
       "2024-09-29": 21,
