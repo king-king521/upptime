@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "npm",
     "status": "up",
-    "uptime": "97.80%",
+    "uptime": "97.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.51%",
-    "uptimeYear": "97.80%",
+    "uptimeMonth": "96.71%",
+    "uptimeYear": "97.81%",
     "time": 198,
     "timeDay": 240,
     "timeWeek": 195,
@@ -29,9 +29,9 @@
     "url": "$DOCKER_MIRROR",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "docker-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -40,7 +40,9 @@
     "timeWeek": 363,
     "timeMonth": 326,
     "timeYear": 322,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-03": 0
+    }
   },
   {
     "name": "GPTNEXTCHAT",
