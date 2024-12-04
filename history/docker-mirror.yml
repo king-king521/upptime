@@ -1,7 +1,7 @@
 url: $DOCKER_MIRROR
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-03T23:21:57.521Z
+status: up
+code: 200
+responseTime: 297
+lastUpdated: 2024-12-04T13:42:22.674Z
 startTime: 2024-09-08T02:36:46.103Z
 generator: Upptime <https://github.com/upptime/upptime>
